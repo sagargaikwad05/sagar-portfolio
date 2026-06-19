@@ -8,6 +8,7 @@ import Projects from "./component/Projects";
 import Contact from "./component/Contact";
 import Education from "./component/Education";
 import Certification from "./component/Certification";
+import FloatingBlobs from "./component/FloatingBlobs";
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
      <Certification />
      <Education />
        <Contact />
+       <FloatingBlobs />
 
      
     </>
