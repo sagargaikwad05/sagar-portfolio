@@ -36,15 +36,15 @@ function Hero() {
 
       <div className="hero-buttons">
 
-  <a href="#projects" className="btn glass primary">
+  <a href="#Projects" className="btn glass primary">
     🚀 View Projects
   </a>
 
-  <a href="/Sagar_Gaikwad_Resume.pdf" download className="btn glass secondary">
+  <a href="/sagar.pdf" download className="btn glass secondary">
     📄 Download Resume
   </a>
 
-  <a href="#contact" className="btn glass ghost">
+  <a href="#Contact" className="btn glass ghost">
     ✉️ Contact Me
   </a>
 
